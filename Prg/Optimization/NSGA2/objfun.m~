@@ -1,6 +1,0 @@
-function [y, cons] = objfun( pop, geom,test,obs,method )
-
-geom.CP_C(1:geom.NCP) = pop(1;geo
-geom.CP_T(1:geom.NCP) = ;
-
-
